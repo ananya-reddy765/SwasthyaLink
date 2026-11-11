@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploaded local files
+backend/uploads/
+
+frontend/.env

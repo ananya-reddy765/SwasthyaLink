@@ -1,0 +1,67 @@
+[
+  {
+    "facility_name": "City Blood Bank",
+    "facility_type": "Blood Bank",
+    "address": "MG Road, Sangareddy, Telangana",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "phone": "+91 90000 10001",
+    "email": "contact@citybloodbank.org",
+    "authorized_person": "Mr. Suresh Naik",
+    "verified": true,
+    "latitude": 17.6259,
+    "longitude": 78.0881
+  },
+  {
+    "facility_name": "Sangareddy District Hospital",
+    "facility_type": "Hospital",
+    "address": "Hospital Road, Sangareddy, Telangana",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "phone": "+91 90000 10002",
+    "email": "info@sangareddyhospital.gov.in",
+    "authorized_person": "Dr. Lakshmi Devi",
+    "verified": true,
+    "latitude": 17.6244,
+    "longitude": 78.0902
+  },
+  {
+    "facility_name": "Mother's Milk Bank, Zaheerabad",
+    "facility_type": "Milk Bank",
+    "address": "Zaheerabad, Telangana",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "phone": "+91 90000 10003",
+    "email": "care@mothersmilkbank.org",
+    "authorized_person": "Ms. Rehana Sultana",
+    "verified": true,
+    "latitude": 17.7204,
+    "longitude": 77.6047
+  },
+  {
+    "facility_name": "Rapid Response Ambulance Service",
+    "facility_type": "Ambulance Service",
+    "address": "Bus Stand Road, Sadasivpet, Telangana",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "phone": "+91 90000 10004",
+    "email": "dispatch@rapidresponse.in",
+    "authorized_person": "Mr. Kiran Kumar",
+    "verified": true,
+    "latitude": 17.6167,
+    "longitude": 77.9333
+  },
+  {
+    "facility_name": "Narayankhed PHC",
+    "facility_type": "PHC",
+    "address": "Main Road, Narayankhed, Telangana",
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "phone": "+91 90000 10005",
+    "email": "phc.narayankhed@health.telangana.gov.in",
+    "authorized_person": "Dr. Anjali Rao",
+    "verified": true,
+    "latitude": 17.9411,
+    "longitude": 77.9021
+  }
+]

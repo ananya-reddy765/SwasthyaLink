@@ -1,0 +1,38 @@
+[
+  {
+    "facility_name": "City Blood Bank",
+    "resource_type": "blood_bank",
+    "blood_stock": [
+      { "group": "O+", "units": 5 },
+      { "group": "O-", "units": 2 },
+      { "group": "A+", "units": 3 },
+      { "group": "B+", "units": 4 },
+      { "group": "AB+", "units": 1 }
+    ],
+    "donors": [
+      { "name": "Ravi Kumar", "blood_group": "O+", "last_donation_date": "2026-06-12", "contact": "+91 98765 43210", "eligible": true },
+      { "name": "Sunitha Reddy", "blood_group": "O+", "last_donation_date": "2026-07-02", "contact": "+91 98765 43211", "eligible": true },
+      { "name": "Manoj Patel", "blood_group": "A+", "last_donation_date": "2026-05-20", "contact": "+91 98765 43212", "eligible": true },
+      { "name": "Farida Begum", "blood_group": "B+", "last_donation_date": "2026-08-01", "contact": "+91 98765 43213", "eligible": false },
+      { "name": "Ashok Rao", "blood_group": "AB+", "last_donation_date": "2026-04-18", "contact": "+91 98765 43214", "eligible": true }
+    ]
+  },
+  {
+    "facility_name": "Sangareddy District Hospital",
+    "resource_type": "oxygen",
+    "oxygen_cylinders": 12,
+    "oxygen_concentrators": 4
+  },
+  {
+    "facility_name": "Mother's Milk Bank, Zaheerabad",
+    "resource_type": "milk_bank",
+    "milk_units": 15,
+    "donor_info": "6 active donors this week"
+  },
+  {
+    "facility_name": "Rapid Response Ambulance Service",
+    "resource_type": "ambulance",
+    "ambulances_available": 5,
+    "ambulance_type": "Basic: 3, Advanced: 2"
+  }
+]
